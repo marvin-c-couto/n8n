@@ -18,4 +18,4 @@ This template deploys a self-hosted version of [n8n](https://n8n.io/). Internall
 ## 📝 Notes
 
 - Source image: https://hub.docker.com/r/n8nio/n8n
-- Docs: https://docs.n8n.io/
+- Docs: https://docs.n8n.io
